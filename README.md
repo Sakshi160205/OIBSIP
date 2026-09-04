@@ -22,6 +22,12 @@ Data cleaning and preprocessing of a messy dataset by identifying and handling m
 
 [View Data Cleaning Project](./DataAnalytics-L1-CleaningData/)
 
+### Level 2 Task 1 - House Price Prediction
+
+House price prediction using **Linear Regression** and **Ridge Regression**. The project includes data exploration, preprocessing, feature selection, One-Hot Encoding, model training, evaluation, residual analysis, and model comparison.
+
+[View House Price Prediction Project](./DataAnalytics-L2-HousePricePrediction/)
+
 ## Technologies Used
 
 - Python
@@ -50,5 +56,10 @@ OIBSIP/
 │   ├── Cleaning Data.ipynb
 │   ├── README.md
 │   └── dirty_cafe_sales.csv
+│
+├── DataAnalytics-L2-HousePricePrediction/
+│   ├── house_price_prediction(1).ipynb
+│   ├── House_Price_Prediction.csv
+│   └── README.md
 │
 └── README.md
